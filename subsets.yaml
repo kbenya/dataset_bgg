@@ -2,6 +2,6 @@ complete:
   branch: main
   default: true
 top_2:
-  branch: tt
+  branch: top_2
   sampling_kwargs:
     num_bg_ratings: 2
