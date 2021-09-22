@@ -1,0 +1,5 @@
+outs:
+- md5: ddbdecea1f249c12219a6129cf7d22e7.dir
+  size: 42231139
+  nfiles: 5
+  path: complete
